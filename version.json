@@ -1,6 +1,15 @@
 {
- "version": "0.01",
+ "version": "0.02",
  "notes": [
+  {
+   "v": "0.02",
+   "new": [
+    "업데이트 시험용 버전"
+   ],
+   "fix": [
+    "바뀐 점 팝업 시험"
+   ]
+  },
   {
    "v": "0.01",
    "new": [
@@ -9,6 +18,6 @@
    "fix": []
   }
  ],
- "bundle": "https://github.com/yskang918/wooltari-releases/releases/download/v0.01/web.zip",
+ "bundle": "https://github.com/yskang918/wooltari-releases/releases/download/v0.02/web.zip",
  "sha256": "2b72d4e43dee6e2e6d6437cbac30cefde8664624daa6654d94ede5666e29215a"
 }
