@@ -1,0 +1,14 @@
+{
+ "version": "0.01",
+ "notes": [
+  {
+   "v": "0.01",
+   "new": [
+    "업데이트 알림과 도우미"
+   ],
+   "fix": []
+  }
+ ],
+ "bundle": "https://github.com/yskang918/wooltari-releases/releases/download/v0.01/web.zip",
+ "sha256": "ac23c5fc00d5d46d5cf8f4e687842806335d656125aa90b533500e7f3fd6904f"
+}
