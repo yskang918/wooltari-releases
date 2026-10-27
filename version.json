@@ -1,6 +1,13 @@
 {
- "version": "0.02",
+ "version": "0.03",
  "notes": [
+  {
+   "v": "0.03",
+   "new": [
+    "선생님이 직접 누르는 시험"
+   ],
+   "fix": []
+  },
   {
    "v": "0.02",
    "new": [
@@ -18,6 +25,6 @@
    "fix": []
   }
  ],
- "bundle": "https://github.com/yskang918/wooltari-releases/releases/download/v0.02/web.zip",
+ "bundle": "https://github.com/yskang918/wooltari-releases/releases/download/v0.03/web.zip",
  "sha256": "2b72d4e43dee6e2e6d6437cbac30cefde8664624daa6654d94ede5666e29215a"
 }
