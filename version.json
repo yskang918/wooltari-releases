@@ -1,0 +1,19 @@
+{
+  "version": "0.06",
+  "notes": [
+    {
+      "v": "0.06",
+      "new": [
+        "모둠 이름을 두 번 눌러 바로 수정",
+        "학생용 짧은 주소와 QR 확대 창",
+        "선생님 로그아웃"
+      ],
+      "fix": [
+        "학생 글 올리기와 설치 이어하기 개선",
+        "Firebase 연결 안내 개선"
+      ]
+    }
+  ],
+  "bundle": "https://github.com/yskang918/wooltari-releases/releases/download/v0.06/web.zip",
+  "sha256": "6e9a917c4f1a665c5a2caa4d370880cfa39e80fbabfc22c2f44be7471f836d67"
+}
