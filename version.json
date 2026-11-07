@@ -1,6 +1,13 @@
 {
- "version": "0.16",
+ "version": "0.17",
  "notes": [
+  {
+   "v": "0.17",
+   "new": [
+    "모둠형 담벼락에서 선생님만 보기 기능이 생겼어요"
+   ],
+   "fix": []
+  },
   {
    "v": "0.16",
    "new": [],
@@ -8,9 +15,7 @@
   },
   {
    "v": "0.15",
-   "new": [
-    "모둠형 담벼락에서 선생님만 보기 기능이 생겼어요"
-   ],
+   "new": [],
    "fix": []
   },
   {
@@ -66,6 +71,6 @@
    ]
   }
  ],
- "bundle": "https://github.com/yskang918/wooltari-releases/releases/download/v0.16/web.zip",
- "sha256": "bf2d353814f2e5ee846de191c1ab76510f32ab7e0e0192d231a8548b949b0be5"
+ "bundle": "https://github.com/yskang918/wooltari-releases/releases/download/v0.17/web.zip",
+ "sha256": "3b72e04896d061fe2cae1676fc8d3ee2f9fd199a09c53358c5381d2f5c9dd1d4"
 }
