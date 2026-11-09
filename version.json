@@ -1,6 +1,13 @@
 {
- "version": "0.17",
+ "version": "0.18",
  "notes": [
+  {
+   "v": "0.18",
+   "new": [
+    "브라우저 뒤로가기를 누르면 울타리 안에서 한 단계씩 돌아가요"
+   ],
+   "fix": []
+  },
   {
    "v": "0.17",
    "new": [
@@ -71,6 +78,6 @@
    ]
   }
  ],
- "bundle": "https://github.com/yskang918/wooltari-releases/releases/download/v0.17/web.zip",
- "sha256": "3b72e04896d061fe2cae1676fc8d3ee2f9fd199a09c53358c5381d2f5c9dd1d4"
+ "bundle": "https://github.com/yskang918/wooltari-releases/releases/download/v0.18/web.zip",
+ "sha256": "f104e3965b0e88e77a1b84e4f29512087a3105873727626f9f71dee329287571"
 }
