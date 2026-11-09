@@ -1,6 +1,11 @@
 {
- "version": "0.18",
+ "version": "0.19",
  "notes": [
+  {
+   "v": "0.19",
+   "new": [],
+   "fix": []
+  },
   {
    "v": "0.18",
    "new": [
@@ -78,6 +83,6 @@
    ]
   }
  ],
- "bundle": "https://github.com/yskang918/wooltari-releases/releases/download/v0.18/web.zip",
- "sha256": "f104e3965b0e88e77a1b84e4f29512087a3105873727626f9f71dee329287571"
+ "bundle": "https://github.com/yskang918/wooltari-releases/releases/download/v0.19/web.zip",
+ "sha256": "bf62411c60b7a85d9aaea4319fb02f66f6faad5cb11489bb9f7a10672355b472"
 }
